@@ -39,4 +39,4 @@ Modern ve interaktif bir quiz uygulaması. React ve Vite kullanılarak geliştir
    - Detaylı performans analizi
    - Yeniden başlatma seçeneği
 
-## 📁 Proje Yapısı
+
