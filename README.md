@@ -4,7 +4,6 @@ Modern ve interaktif bir quiz uygulaması. React ve Vite kullanılarak geliştir
 
 ## 🚀 Canlı Demo
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/your-badge-id/deploy-status)](https://fabulous-lily-05cb6d.netlify.app)
 
 **Canlı Link:** [https://fabulous-lily-05cb6d.netlify.app)
 
