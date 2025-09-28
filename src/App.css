@@ -1,0 +1,52 @@
+/* App.css - FERAH VE TEMİZ */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background: #f8fafc;
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+}
+
+#root {
+  min-height: 100vh;
+  background: #f8fafc;
+}
+
+/* ANA CONTAINER -  */
+.quiz-container {
+  min-height: 100vh;
+  background: #f8fafc;
+  padding: 1rem;
+}
+
+/* App.css - RESET */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background: #f8fafc !important;
+  min-height: 100vh;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+#root {
+  background: #f8fafc !important;
+  min-height: 100vh;
+}
+
+/* TÜM CONTAINER'LARI KALDIR */
+.quiz-container,
+.app-container {
+  all: unset !important;
+}
